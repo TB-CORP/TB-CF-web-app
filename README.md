@@ -12,7 +12,7 @@ TopBrains Code Fest web application by TB-CORP LLC. The application follows [mon
 - [Architecture](#architecture)
 
 ## Architecture
-The project is a [monolithic application](https://en.wikipedia.org/wiki/Monolithic_application), which briefly means that the application is self-contained and do not depend on other applications. The architecture diagram is a conceptual diagram, which shares the idea behind the application structure, but not list it.
+The project is a [monolithic application](https://en.wikipedia.org/wiki/Monolithic_application), which briefly means that the application is self-contained and do not depend on other applications. The architecture diagram is a conceptual diagram, which shares the idea behind the application structure, but not list it. Install [browser extension](https://chrome.google.com/webstore/detail/markdown-diagrams/pmoglnmodacnbbofbgcagndelmgaclel), if you do not see the diagram.
 ```plantuml
 @startuml Class diagram
 ' Diagram config
